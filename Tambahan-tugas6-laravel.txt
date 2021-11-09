@@ -1,0 +1,4 @@
+Tambahan :
+1. Menambahkan nomor telepon di bawah nama tiap member di list grup
+2. Menull kan id grup
+3. Mengubah warna navbar
